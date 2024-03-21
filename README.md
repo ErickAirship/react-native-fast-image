@@ -2,6 +2,8 @@
   🚩 FastImage
 </h1>
 
+### ⚠️ This is a fork of https://github.com/DylanVann/react-native-fast-image. All credit goes to the original author.
+
 <div align="center">
 
 Performant React Native image component.

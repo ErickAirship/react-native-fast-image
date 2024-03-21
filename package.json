@@ -1,5 +1,5 @@
 {
-    "name": "react-native-fast-image",
+    "name": "@naturalclar/react-native-fast-image",
     "version": "8.6.3",
     "description": "🚩 FastImage, performant React Native image component.",
     "keywords": [
@@ -78,5 +78,8 @@
     "peerDependencies": {
         "react": "^17 || ^18",
         "react-native": ">=0.60.0"
+    },
+    "publishConfig": {
+        "access": "public"
     }
 }
