@@ -1889,6 +1889,30 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@naturalclar/react-native-fast-image@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@naturalclar/react-native-fast-image@workspace:."
+  dependencies:
+    "@babel/core": "npm:^7.14.6"
+    "@babel/runtime": "npm:^7.14.6"
+    "@types/jest": "npm:^26.0.24"
+    "@types/react": "npm:^17.0.14"
+    "@types/react-native": "npm:^0.69.5"
+    "@types/react-test-renderer": "npm:^17.0.1"
+    dv-scripts: "npm:^1.6.0"
+    eslint-config-dv-scripts: "npm:^1.1.1"
+    metro-react-native-babel-preset: "npm:^0.66.1"
+    prettier: "npm:^2.3.2"
+    react: "npm:17.0.2"
+    react-native: "npm:0.64.2"
+    react-test-renderer: "npm:17.0.2"
+    typescript: "npm:^4.3.5"
+  peerDependencies:
+    react: ^17 || ^18
+    react-native: ">=0.60.0"
+  languageName: unknown
+  linkType: soft
+
 "@nicolo-ribaudo/chokidar-2@npm:2.1.8-no-fsevents.2":
   version: 2.1.8-no-fsevents.2
   resolution: "@nicolo-ribaudo/chokidar-2@npm:2.1.8-no-fsevents.2"
@@ -11386,30 +11410,6 @@ __metadata:
   checksum: fa13c4624c4b67d5962288add5bfb0803c90ae6e1ce5be2abde8e7afc063c1f7af69d5c992fbc89dd64431ac7ecded66f620fbb418c2344c16fd45ded2e432b5
   languageName: node
   linkType: hard
-
-"react-native-fast-image@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "react-native-fast-image@workspace:."
-  dependencies:
-    "@babel/core": "npm:^7.14.6"
-    "@babel/runtime": "npm:^7.14.6"
-    "@types/jest": "npm:^26.0.24"
-    "@types/react": "npm:^17.0.14"
-    "@types/react-native": "npm:^0.69.5"
-    "@types/react-test-renderer": "npm:^17.0.1"
-    dv-scripts: "npm:^1.6.0"
-    eslint-config-dv-scripts: "npm:^1.1.1"
-    metro-react-native-babel-preset: "npm:^0.66.1"
-    prettier: "npm:^2.3.2"
-    react: "npm:17.0.2"
-    react-native: "npm:0.64.2"
-    react-test-renderer: "npm:17.0.2"
-    typescript: "npm:^4.3.5"
-  peerDependencies:
-    react: ^17 || ^18
-    react-native: ">=0.60.0"
-  languageName: unknown
-  linkType: soft
 
 "react-native@npm:0.64.2":
   version: 0.64.2
